@@ -1,1 +1,7 @@
-# Descreva aqui o seu projeto e como navegar pelo seu site
+# Embaixadores
+Repositório destinado ao Curso Embaixadores em Ação - Edutech 
+Projetos Desenvolvidos em HTML e CSS
+
+
+
+
